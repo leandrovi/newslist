@@ -1,0 +1,150 @@
+{
+  "categories": [
+    {
+      "id": "asd89dashd9ashd",
+      "name": "Política"
+    },
+    {
+      "id": "2o3ij14j3ijod",
+      "name": "Nacional"
+    },
+    {
+      "id": "sdjcd0jvn434",
+      "name": "Internacional"
+    },
+    {
+      "id": "asdoce93n",
+      "name": "Negócios"
+    },
+    {
+      "id": "as093bfl",
+      "name": "Finanças"
+    },
+    {
+      "id": "cdoinceb3l",
+      "name": "Saúde"
+    },
+    {
+      "id": "vmnc48hoias",
+      "name": "Mídia"
+    },
+    {
+      "id": "acle83llb",
+      "name": "Esportes"
+    }
+  ],
+  "comments": [
+    {
+      "id": "da35sf",
+      "user_id": "cno38yv8h",
+      "news_id": "dadpej9au3ugbc829c",
+      "comment": "Impressionante notícia! Mudou meu dia! Merecem 10 no projeto.",
+      "like_count": "3",
+      "created_at": "12/11/2020 12:11",
+      "updated_at": null
+    }
+  ],
+  "news": [
+    {
+      "id": "dadpej9au3ugbc829c",
+      "user_id": "cno38yv8h",
+      "categories": [
+        "asd89dashd9ashd"
+      ],
+      "tags": [
+        "1",
+        "4"
+      ],
+      "title": "CoronaVac é segura e induz imunização, aponta estudo das primeiras fases de teste",
+      "image": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+      "text": "Um estudo feito com 743 pacientes mostrou que a vacina CoronaVac, produzida pela farmacêutica chinesa Sinovac contra a Covid-19, e que está em testes no Brasil, mostrou segurança e resposta imune satisfatória durante as fases 1 e 2 de testes (veja abaixo detalhes do estudo). O artigo foi publicado nesta terça-feira (17) na revista científica 'The Lancet'. A fase 2 dos testes de uma vacina verifica a segurança e a capacidade de gerar uma resposta do sistema de defesa. Normalmente, ela é feita com centenas de voluntários. Já a fase 1 é feita em dezenas de pessoas, e a 3, em milhares. É na fase 3 que será medida a eficácia da vacina. Os participantes eram adultos saudáveis de 18 a 59 anos e foram escolhidos aleatoriamente para receber duas doses da vacina experimental: dose baixa de 3 microgramas, dose alta de 6 microgramas, ou placebo. Segundo a pesquisa, as respostas de anticorpos foram induzidas no prazo de até 28 dias após a primeira imunização.",
+      "created_at": "12/11/2020 22:45",
+      "updated_at": null
+    },
+    {
+      "id": "adsinn983hca93hp993h",
+      "user_id": "cdche7ih",
+      "categories": [
+        "asdoce93n"
+      ],
+      "tags": [
+        "6"
+      ],
+      "title": "Metrô de SP paralisa linha para resgate de cachorra presa nos trilhos",
+      "image": "https://images.unsplash.com/photo-1530435622277-39544076a5f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+      "text": "Trecho entre as estações Jabaquara e Conceição ficou paralisado por cerca de 20 minutos na manhã desta terça-feira (17). Animal havia escapado de casa na noite anterior e foi devolvido para a dona. A cadelinha foi vista no túnel por um funcionário por volta das 9h, e uma operação com dez pessoas teve de ser montada às pressas para resgatar o animal, que corria o risco de ser atropelado. Para que o resgate fosse feito, o trecho entre as duas estações foi desernegizado entre as 9h13 e as 9h34. Segundo o Metrô, parte dos funcionários partiu da estação Jabaquara e foi no sentido Conceição. Outra equipe fez o sentido contrário. Participaram operadores de trem, agentes de estação e agentes de segurança. A cachorrinha foi localizada embaixo de uma das plataformas.",
+      "created_at": "12/11/2020 22:45",
+      "updated_at": null
+    },
+    {
+      "id": "dfsfgrv94voi4",
+      "user_id": "cdche7ih",
+      "categories": [
+        "acle83llb"
+      ],
+      "tags": [
+        "2"
+      ],
+      "title": "E-Sports ganha cada vez mais popularidade na amazônia",
+      "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+      "text": "Os primeiros Jogos Olímpicos ocorreram na Grécia em 776 a.C. e, quase 2800 anos depois, ainda estão sendo realizados. É justo dizer que os jogos incluídos nas Olimpíadas mudaram muito ao longo desse tempo. As Olimpíadas da Antiguidade eram conhecidas pelas corridas de bigas, algo que não faz mais parte das Olimpíadas modernas. Do mesmo modo, continuamos a adicionar novos esportes às Olimpíadas modernas todos os anos. Para os próximos jogos em 2021, caratê, surfe e skate serão disputados pela primeira vez. Isso levou muita gente a questionar se podemos esperar que os eSports (ou esportes eletrônicos) sejam incluídos nos Jogos Olímpicos em um futuro próximo. Os eSports estão apenas agora começando a ser considerados esportes legítimos pelo público. Por quê? Porque os jogos competitivos estão em ascensão e milhões de dólares estão em disputa todos os anos por vitórias em torneios de eSports. Canais esportivos tradicionais como a ESPN estão inclusive começando a transmitir regularmente eventos de eSports juntamente a esportes tradicionais. Os eSports estão começando a se tornar mais convencionais, especialmente entre as gerações mais jovens. Por esses motivos, eles são bons candidatos para uma nova categoria de esporte olímpico.",
+      "created_at": "12/11/2020 22:45",
+      "updated_at": null
+    }
+  ],
+  "tags": [
+    {
+      "id": "1",
+      "name": "politica"
+    },
+    {
+      "id": "2",
+      "name": "artes"
+    },
+    {
+      "id": "3",
+      "name": "economia"
+    },
+    {
+      "id": "4",
+      "name": "partido politico"
+    },
+    {
+      "id": "5",
+      "name": "musica"
+    },
+    {
+      "id": "6",
+      "name": "selvagem"
+    }
+  ],
+  "users": [
+    {
+      "id": "cno38yv8h",
+      "name": "Leandro Vieira",
+      "email": "leandrofernandesvieira@gmail.com",
+      "password_hash": "123456",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38142332?s=460&u=a2cbc4198ee911a55932afa4d5a261e3d3b121ab&v=4",
+      "created_at": "01/11/2020 20:00",
+      "updated_at": null
+    },
+    {
+      "id": "cdche7ih",
+      "name": "João Felipe",
+      "email": "joaofelipe@gmail.com",
+      "password_hash": "123456",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57374143?s=460&u=f6dd222c20b03c8e7bf124f35916bbca8c97f1fe&v=4",
+      "created_at": "19/07/2020 09:36",
+      "updated_at": null
+    },
+    {
+      "id": "dacon8",
+      "name": "João Victor",
+      "email": "joaovictor@gmail.com",
+      "password_hash": "123456",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45154356?s=400&u=3ae25f40bfcf6c661c7fad6f27ea1f471acf88ac&v=4",
+      "created_at": "10/01/2019 19:11",
+      "updated_at": null
+    }
+  ]
+}

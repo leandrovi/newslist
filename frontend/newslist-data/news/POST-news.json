@@ -1,0 +1,16 @@
+{
+  "user_id": "number",
+  "categories": [
+    "category_id",
+    "category_id",
+    "category_id"
+  ],
+  "tags": [
+    "tag_id",
+    "tag_id",
+    "tag_id"
+  ],
+  "text": "string",
+  "created_at": "datetime",
+  "updated_at": "datetime"
+}
