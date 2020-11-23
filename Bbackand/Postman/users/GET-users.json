@@ -1,0 +1,20 @@
+[
+  {
+    "id": "number",
+    "name": "string",
+    "email": "string",
+    "password_hash": "string",
+    "avatar_url": "string",
+    "created_at": "datetime",
+    "updated_at": "datetime"
+  },
+  {
+    "id": "number",
+    "name": "string",
+    "email": "string",
+    "password_hash": "string",
+    "avatar_url": "string",
+    "created_at": "datetime",
+    "updated_at": "datetime"
+  }
+]

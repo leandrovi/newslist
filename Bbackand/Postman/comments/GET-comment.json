@@ -1,0 +1,9 @@
+{
+  "id": "number",
+  "user_id": "number",
+  "news_id": "number",
+  "comment": "string",
+  "like_count": "number",
+  "created_at": "datetime",
+  "updated_at": "datetime"
+}

@@ -1,0 +1,36 @@
+Endpoints da Api
+
+Categories
+- GET /categories/:id
+- GET /categories
+- POST /categories
+- PUT /categories/:id
+- DEL /categories/:id
+
+Comments
+- GET /coments/:id
+- GET /comments
+- POST /comments
+- PUT /comments/:id
+- DEL /coments/:id
+
+News
+- GET /news/:id
+- GET /news
+- POST /news
+- PUT /news/:id
+- DEL /news/:id
+
+Tags
+- GET /tags/:id
+- GET /tags
+- POST /tags
+- PUT /tags/:id
+- DEL /tags/:id
+
+Users
+- GET /users/:id
+- GET /users
+- POST /users
+- PUT /users/:id
+- DEL /users/:id
