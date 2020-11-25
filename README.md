@@ -2,7 +2,7 @@
 
 ###### by Ighor, João, Leandro e Matheus 
 
-##Descrição
+## Descrição
 Rede social em forma de Aplicação Web, com foco é entretenimento e informação de notícias, em que, os usuários recebem notícias em seus feed de acordo com as categorias de seu interesse, podendo interagir nas publicações com comentários e respondendo outros usuários.   
 
 ## Objetivo
