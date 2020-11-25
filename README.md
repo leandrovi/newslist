@@ -13,16 +13,19 @@ Construir um projeto com aplicação Web e API utilizando metodos ágeis scrum p
 
 ### Back-end
 
-*IDE, extensões, bibliotecas e frameworks* 
+**IDE, extensões, bibliotecas e frameworks** 
+
 Eclipse 06
 2020JDK 11
 Apache Maven 3.6
 Apache Tomcat 9
 
-*SGBD*
+**SGBD**
+
 MySQL 8
 
-*API test*
+**API test**
+
 Postman 
 
 ### Front-end
